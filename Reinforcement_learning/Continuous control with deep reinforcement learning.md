@@ -1,6 +1,6 @@
 # Continuous control with deep reinforcement learning
 
-![figure](https:\github.com\bgdpgz\Paper_self-understand\tree\main\Picture\image-20230412211938984.png)
+![figure](https://github.com/bgdpgz/Paper_self-understand/tree/main/Picture/image-20230412211938984.png)
 
 ### 模型如上图所示。
 
