@@ -2,19 +2,19 @@
 
 ![](C:\Users\我的电脑\AppData\Roaming\Typora\typora-user-images\image-20230412211938984.png)
 
-#### 模型如上图所示。
+### 模型如上图所示。
 
 DDPG共有四个全连接网络，即Actor Net, Critic Net, Actor Target Net, Critic Target Net。
 
-#### Actor Net:
+### Actor Net:
 
 通过输入当前状态值s，进入网络后得到行为a。
 
-#### Critic Net:
+### Critic Net:
 
 通过输入当前状态值s和行为a，进入网络后得到对应的分数（可以将该分数认为是从当前时间当一个特定时间的奖励的和）。
 
-#### Actor Targe Net 和 Critic Target Net 同上。
+### Actor Targe Net 和 Critic Target Net 同上。
 
 ### 计算过程
 
