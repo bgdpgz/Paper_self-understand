@@ -1,6 +1,6 @@
 # Continuous control with deep reinforcement learning
 
-![](C:\Users\我的电脑\AppData\Roaming\Typora\typora-user-images\image-20230412211938984.png)
+![](https:\github.com\bgdpgz\Paper_self-understand\tree\main\Picture\image-20230412211938984.png)
 
 ### 模型如上图所示。
 
